@@ -10,8 +10,8 @@ html, body {
   width: 100%;
   height: 100%;
   background-color: white;
-  padding-left: 75px;
-  padding-top: 50px; }
+  text-align: center;
+  padding-top: 100px; }
   #intro #title {
     height: auto;
     font-size: 75px;
