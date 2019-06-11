@@ -1,20 +1,22 @@
 theme: minima
 
 collections:
-  authors:
+  projects:
+    output: true
+  experience:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "projects"
     values:
-      layout: "author"
+      layout: "things"
   - scope:
       path: ""
-      type: "posts"
+      type: "experience"
     values:
-      layout: "post"
+      layout: "things"
   - scope:
       path: ""
     values:
