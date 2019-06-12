@@ -81,15 +81,39 @@ nav {
     text-align: center;
 }
 
+#currently {
+    width: 100%;
+    padding-top: 40px;
+    text-align: center;
+
+    .currently-sections a {
+        color: black;
+    }
+
+    .currently-sections a:hover {
+        color: white;
+        background-color: $accent-color;
+    } 
+
+    .currently-sections {
+        padding-top: 15px;
+        text-align: left;
+    }
+
+    .currently-items {
+        float: right;
+    }
+}
+
 #projects {
     width: 100%;
-    padding-top: 10px;
+    padding-top: 150px;
     text-align: center;
 }
 
 #experience {
     width: 100%;
-    padding-top: 100px;
+    padding-top: 150px;
     text-align: center;
 }
 
@@ -104,5 +128,26 @@ nav {
     font-weight: 200;
 }
 
+.sub-heading {
+    color: $accent-color;
+    font-size: 22px;
+    font-weight: bold;
+}
 
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    max-width: 500px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+
+    .footer {
+        font-size: 12px;
+    }
+}
   

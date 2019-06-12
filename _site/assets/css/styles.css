@@ -55,14 +55,29 @@ nav {
   font-size: 50px;
   text-align: center; }
 
+#currently {
+  width: 100%;
+  padding-top: 40px;
+  text-align: center; }
+  #currently .currently-sections a {
+    color: black; }
+  #currently .currently-sections a:hover {
+    color: white;
+    background-color: #ff9624; }
+  #currently .currently-sections {
+    padding-top: 15px;
+    text-align: left; }
+  #currently .currently-items {
+    float: right; }
+
 #projects {
   width: 100%;
-  padding-top: 10px;
+  padding-top: 150px;
   text-align: center; }
 
 #experience {
   width: 100%;
-  padding-top: 100px;
+  padding-top: 150px;
   text-align: center; }
 
 .heading {
@@ -74,3 +89,21 @@ nav {
   letter-spacing: 0.1em;
   font-size: 28px;
   font-weight: 200; }
+
+.sub-heading {
+  color: #ff9624;
+  font-size: 22px;
+  font-weight: bold; }
+
+.wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 50px;
+  max-width: 500px; }
+
+footer {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 25px; }
+  footer .footer {
+    font-size: 12px; }

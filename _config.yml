@@ -11,12 +11,12 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "things"
+      layout: "default"
   - scope:
       path: ""
       type: "experience"
     values:
-      layout: "things"
+      layout: "default"
   - scope:
       path: ""
     values:
