@@ -24,7 +24,7 @@ title: Joice Tang 🌻
         <div class="currently-sections">
             <br><span class="sub-heading">working on:</span>
             <span class="currently-items">
-                📋<a href="2019.nwhacks.io"> Organizing nwHacks 2020</a>
+                👩‍💻 <a href="https://github.com/joitng/joitng.github.io">This website!</a>
                 <br>📱 <a href="https://github.com/CodetheChangeFoundation/dda">DDA App</a> w/ <a href="https://codethechange.ca">Code the Change</a>
 
             </span>
@@ -46,12 +46,14 @@ title: Joice Tang 🌻
     </div>
 </div>
 
+<!----
 <a id="projects"></a>
 <div id="projects">
     <span class="heading">
         projects
     </span>
 </div>
+-->
 
 <a id="experience"></a>
 <div id="experience">
@@ -59,12 +61,12 @@ title: Joice Tang 🌻
         experience
     </span>
     <div class="timeline">
-        {% for item in site.experience reversed %}
+        {% for exp in site.experience %}
         <div class="experience-info">
-            <div class="company">{{ experience.company }}</div>
-            <div class="position">{{ experience.position }}</div>
-            <div class="dates">{{ experience.dates }}</div>
-            <div class="description">{{ experience.description }}</div>
+            <div class="company">{{ exp.company }}</div>
+            <div class="position">{{ exp.position }}</div>
+            <div class="dates">{{ exp.dates }}</div>
+            <div class="description">{{ exp.description }}</div>
         </div>
         {% endfor %}
     </div>
