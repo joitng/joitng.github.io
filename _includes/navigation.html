@@ -1,12 +1,15 @@
 <nav>
-    <span class="nav-title" id="home">
-        <a href="/" {% if page.url == "/" %}{% endif %}>👩‍💻</a>
-    </span>
+  <span class="nav-title" id="home">
+    <a href="/" {% if page.url == "/" %}{% endif %}>👩‍💻</a>
+  </span>
+  <span class="nav-title">
+      <a href="https://github.com/joitng">Github</a>
+  </span>
   {% for item in site.data.navigation reversed %}
   <span class="nav-title">
     <a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>
       {{ item.name }}
     </a>
   </span>
-    {% endfor %}
+  {% endfor %}
 </nav>
