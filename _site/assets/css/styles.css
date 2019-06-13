@@ -57,6 +57,7 @@ nav {
 
 #currently {
   width: 100%;
+  height: 90%;
   padding-top: 40px;
   text-align: center; }
   #currently .currently-sections a {
@@ -72,15 +73,59 @@ nav {
 
 #projects {
   width: 100%;
+  height: 75%;
   padding-top: 150px;
   text-align: center; }
+  #projects .project-info {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    text-align: left;
+    border: 4px solid #ff9624; }
+  #projects .content {
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px; }
+  #projects .title {
+    font-size: 20px;
+    color: black;
+    font-weight: bold; }
+  #projects .dates {
+    font-size: 14px;
+    color: #ff9624; }
+  #projects .description {
+    font-size: 13px;
+    color: black; }
 
 #experience {
   width: 100%;
+  height: 80%;
   padding-top: 150px;
   text-align: center; }
+  #experience .experience-info {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    text-align: left;
+    border: 4px solid #ff9624; }
+  #experience .content {
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px; }
   #experience .company {
     font-size: 20px;
+    color: black;
+    font-weight: bold; }
+  #experience .position {
+    font-size: 16px;
+    color: black; }
+  #experience .dates {
+    font-size: 14px;
+    color: #ff9624; }
+  #experience .description {
+    font-size: 13px;
     color: black; }
 
 .heading {
@@ -106,7 +151,7 @@ nav {
 
 footer {
   text-align: center;
-  padding-top: 50px;
+  padding-top: 100px;
   padding-bottom: 25px; }
   footer .footer {
     font-size: 12px; }
