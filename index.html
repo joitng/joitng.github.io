@@ -24,7 +24,7 @@ title: Joice Tang 🌻
         <div class="currently-sections">
             <br><span class="sub-heading">working on:</span>
             <span class="currently-items">
-                👩‍💻 <a href="https://nwhacks.io">nwHacks 2020</a>
+                👩‍💻 <a href="https://nwhacks.io">nwHacks 2020</a>                          
             </span>
         </div>
         <div class="currently-sections">
@@ -40,26 +40,6 @@ title: Joice Tang 🌻
             </span>
         </div> 
     </div>
-</div>
-
-<a id="projects"></a>
-<div id="projects">
-    <span class="heading">
-        projects
-    </span>
-    <div class="wrapper">
-            {% for post in site.posts %}
-            {% if post.tag == "project" %}
-            <div class="project-info">
-                <div class="content">
-                    <div class="title">{{ post.title }}</div>
-                    <span class="dates">{{ post.dates }}</span>
-                    <div class="description">{{ post.description }}</div>
-                </div>
-            </div>
-            {% endif %}
-            {% endfor %}
-        </div>
 </div>
 
 <a id="experience"></a>
@@ -81,5 +61,25 @@ title: Joice Tang 🌻
         {% endif %}
         {% endfor %}
     </div>
+</div>
+
+<a id="projects"></a>
+<div id="projects">
+    <span class="heading">
+        projects
+    </span>
+    <div class="wrapper">
+            {% for post in site.posts %}
+            {% if post.tag == "project" %}
+            <div class="project-info">
+                <div class="content">
+                    <div class="title">{{ post.title }}</div>
+                    <span class="dates">{{ post.dates }}</span>
+                    <div class="description">{{ post.description }}</div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
 </div>
 
