@@ -16,6 +16,25 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: white;
+    background-color: $accent-color;
+} 
+
+p {
+    height: auto;
+    font-size: 16px;
+    color: $main-font-color;
+    padding-bottom: 250px;
+}
+
+h1 {
+    height: auto;
+    font-size: 75px;
+    color: $accent-color;
+    font-weight: bold;
+}
+
 nav {
     width: 95%;
     padding-right: 12px;
@@ -53,27 +72,21 @@ nav {
     height: 100%;
     align-content: center;
     background-color: $bg;
-    text-align: center;
+    text-align: left;
     padding-top: 200px;
+    padding-left: 150px;
+}
 
-    #title {
-        height: auto;
-        font-size: 75px;
-        color: $accent-color;
-        font-weight: bold;
-    }
+.typing > *{
+    overflow: hidden;
+    white-space: nowrap;
+    letter-spacing: .1em;
+    animation: typingAnim 4s steps(50);
+}
 
-    .subtitle {
-        height: auto;
-        font-size: 16px;
-        color: $main-font-color;
-        padding-bottom: 250px;
-    }
-    
-    .subtitle a:hover {
-        color: white;
-        background-color: $accent-color;
-    } 
+@keyframes typingAnim {
+  from { width: 0 }
+  to { width: 100% }
 }
 
 .guide {
