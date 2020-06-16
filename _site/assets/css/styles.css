@@ -15,7 +15,7 @@ h4 { font-size: 18px; font-weight: bold; margin: 0; }
 
 #intro { font-family: 'Poppins', sans-serif; align-content: center; background-color: white; text-align: left; margin-top: 200px; }
 
-#links { display: flex; margin-top: 40px; }
+#links { display: flex-wrap; margin-top: 40px; }
 
 .main-links { margin-right: 50px; }
 
