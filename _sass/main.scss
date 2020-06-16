@@ -90,7 +90,16 @@ footer {
 }
 
 @media (max-width: 800px) {
+    #intro {
+        margin-top: 50px;
+    }
+
     a {
         font-size: 30px;
+    }
+
+    footer {
+        text-align: right;
+        right: 25px;
     }
 }
