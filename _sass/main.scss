@@ -1,31 +1,31 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,400,700');
 $main-font-color: black;
-$heading-font-color: white;
 $bg: white;
-$accent-color: #ff9624;
+$accent-color: #6469FF;
 
 html, body{
     font-family: 'Poppins', sans-serif;
     background-color: $bg;
     width: 100%;
-    height: 100%;
 }
 
 a {
+    font-size: 20px;
+    font-weight: bold;
     color: $accent-color;
     text-decoration: none;
 }
 
 a:hover {
-    color: white;
-    background-color: $accent-color;
+    text-decoration: underline;
+    text-decoration-color: $accent-color;
+    text-decoration-thickness: 3px;
 } 
 
 p {
     height: auto;
-    font-size: 16px;
+    font-size: 18px;
     color: $main-font-color;
-    padding-bottom: 250px;
 }
 
 h1 {
@@ -35,195 +35,51 @@ h1 {
     font-weight: bold;
 }
 
-nav {
-    width: 95%;
-    padding-right: 12px;
-    padding-left: 24px;
-    padding-top: 6px;
+h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
 
-    #home {
-        float: left;
-    }
-
-    #home a {
-        font-size: 32px;
-    }
-
-    .nav-title {
-        float: right;
-        padding: 12px;
-    }
-
-	.nav-title a {
-		text-decoration: none;
-        color: black;
-        font-weight: bold;
-        font-size: 16px;
-    }
-    
-    .nav-title a:hover {
-        color: $accent-color;
-    }
+#header {
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 #intro {
     font-family: 'Poppins', sans-serif;
-    width: 100%;
-    height: 100%;
     align-content: center;
     background-color: $bg;
     text-align: left;
-    padding-top: 200px;
-    padding-left: 150px;
+    margin-top: 200px;
 }
 
-.guide {
-    font-size: 50px;
-    text-align: center;
-    padding-left: 0 !important;
-}
+#links {
+    display: flex;
+    margin-top: 40px;
 
-#currently {
-    width: 100%;
-    height: 50%;
-    padding-top: 40px;
-    text-align: center;
 
-    .currently-sections a {
-        color: black;
+    .main-links {
+        margin-right: 50px;
     }
-
-    .currently-sections a:hover {
-        color: white;
-        background-color: $accent-color;
-    } 
-
-    .currently-sections {
-        padding-top: 15px;
-        text-align: left;
-    }
-
-    .currently-items {
-        float: right;
-    }
-}
-
-#projects {
-    width: 100%;
-    height: 75%;
-    padding-top: 150px;
-    text-align: center;
-
-    .project-info {
-        padding: 10px 40px;
-        position: relative;
-        background-color: inherit;
-        text-align: left;
-        border: 4px solid $accent-color;
-    }
-
-    .content {
-        padding: 20px 30px;
-        background-color: white;
-        position: relative;
-        border-radius: 6px;
-    }
-
-    .title {
-        font-size: 20px;
-        color: black;
-        font-weight: bold;
-
-    }
-
-    .dates {
-        font-size: 14px;
-        color: $accent-color;
-    }
-
-    .description {
-        font-size: 13px;
-        color: black;
-
-    }
-}
-
-#experience {
-    width: 100%;
-    height: 80%;
-    padding-top: 150px;
-    text-align: center;
-
-    .experience-info {
-        padding: 10px 40px;
-        position: relative;
-        background-color: inherit;
-        text-align: left;
-        border: 4px solid $accent-color;
-    }
-
-    .content {
-        padding: 20px 30px;
-        background-color: white;
-        position: relative;
-        border-radius: 6px;
-    }
-
-    .company {
-        font-size: 20px;
-        color: black;
-        font-weight: bold;
-
-    }
-
-    .position {
-        font-size: 16px;
-        color: black;
-
-    }
-
-    .dates {
-        font-size: 14px;
-        color: $accent-color;
-    }
-
-    .description {
-        font-size: 13px;
-        color: black;
-
-    }
-}
-
-.heading {
-    background: $accent-color;
-    background-clip: padding-box;
-    padding: 8px;
-    text-transform: uppercase;
-    color: white;
-    letter-spacing: 0.1em;
-    font-size: 28px;
-    font-weight: 200;
-}
-
-.sub-heading {
-    color: $accent-color;
-    font-size: 22px;
-    font-weight: bold;
-}
-
-.wrapper {
-    margin-right: auto;
-    margin-left: auto;
-    padding-top: 50px;
-    max-width: 500px;
 }
 
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     text-align: center;
-    padding-top: 100px;
-    padding-bottom: 25px;
 
     .footer {
         font-size: 12px;
+    }
+}
+
+@media (max-width: 1280px) {
+    #intro {
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 250px;
     }
 }

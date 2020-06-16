@@ -5,143 +5,16 @@ title: Joice Tang 🌻
 <div id="header">
     <div id="intro">
         <h1>
-            <a href="" class="typewrite" data-period="2000" data-type='[ "hi there! im joice.", "thanks for visiting :)", "this is a WIP." ]'>
-                <span class="wrap"></span>
-            </a>
+            hi! i'm joice.
         </h1>
-        <p>I'm a 3rd-ish year Computer Science student at the University of British Columbia.
-        <br>I'm currently on an 8-month co-op at <a href="https://rdbrck.com/">Redbrick</a>.</p>
+        <h4>I'm a 4th year Computer Science student at the University of British Columbia who's interested in research and, as cheesy and overused as this is, using tech for social good.</h4>
+        <p>I'm currently an Undergraduate Research Assistant at UBC, supervised by Dongwook Yoon and Sidney Fels. You can find anything else you might need to know about me below.</p>
     </div>
-    <div class="guide">
-        <a href="#currently">👇</a>
-    </div>
-</div>
 
-
-<div id="currently">
-    <span class="heading">
-        currently:
-    </span>
-    <div class="wrapper">
-        <div class="currently-sections">
-            <br><span class="sub-heading">working on:</span>
-            <span class="currently-items">
-                👩‍💻 <a href="https://nwhacks.io">nwHacks 2020</a>                          
-            </span>
-        </div>
-        <div class="currently-sections">
-            <br><span class="sub-heading">learning:</span>
-            <span class="currently-items">
-                💻 Google Machine Learning Crash Course
-            </span>
-        </div>
-        <div class="currently-sections">
-            <br><span class="sub-heading">reading:</span>
-            <span class="currently-items">
-                📕 Handmaid's Tale by Margaret Atwood
-            </span>
-        </div> 
+    <div id="links">
+        <a class="main-links" href="/assets/resume.pdf">Resume</a>
+        <a class="main-links" href="https://www.linkedin.com/in/joiceyhtang/">LinkedIn</a>
+        <a class="main-links" href="https://github.com/joitng">GitHub</a>
     </div>
 </div>
-
-<a id="experience"></a>
-<div id="experience">
-    <span class="heading">
-        experience
-    </span>
-    <div class="wrapper">
-        {% for post in site.posts %}
-        {% if post.tag == "exp" %}
-        <div class="experience-info">
-            <div class="content">
-                <div class="company">{{ post.company }}</div>
-                <span class="position">{{ post.position }}</span>
-                <span class="dates">{{ post.dates }}</span>
-                <div class="description">{{ post.description }}</div>
-            </div>
-        </div>
-        {% endif %}
-        {% endfor %}
-    </div>
-</div>
-
-<a id="projects"></a>
-<div id="projects">
-    <span class="heading">
-        projects
-    </span>
-    <div class="wrapper">
-            {% for post in site.posts %}
-            {% if post.tag == "project" %}
-            <div class="project-info">
-                <div class="content">
-                    <div class="title">{{ post.title }}</div>
-                    <span class="dates">{{ post.dates }}</span>
-                    <div class="description">{{ post.description }}</div>
-                </div>
-            </div>
-            {% endif %}
-            {% endfor %}
-        </div>
-</div>
-
-<!-- https://css-tricks.com/snippets/css/typewriter-effect/ -->
-<script>
-    var TxtType = function(el, toRotate, period) {
-        this.toRotate = toRotate;
-        this.el = el;
-        this.loopNum = 0;
-        this.period = parseInt(period, 10) || 2000;
-        this.txt = '';
-        this.tick();
-        this.isDeleting = false;
-    };
-
-    TxtType.prototype.tick = function() {
-        var i = this.loopNum % this.toRotate.length;
-        var fullTxt = this.toRotate[i];
-
-        if (this.isDeleting) {
-        this.txt = fullTxt.substring(0, this.txt.length - 1);
-        } else {
-        this.txt = fullTxt.substring(0, this.txt.length + 1);
-        }
-
-        this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
-
-        var that = this;
-        var delta = 200 - Math.random() * 100;
-
-        if (this.isDeleting) { delta /= 2; }
-
-        if (!this.isDeleting && this.txt === fullTxt) {
-        delta = this.period;
-        this.isDeleting = true;
-        } else if (this.isDeleting && this.txt === '') {
-        this.isDeleting = false;
-        this.loopNum++;
-        delta = 500;
-        }
-
-        setTimeout(function() {
-        that.tick();
-        }, delta);
-    };
-
-    window.onload = function() {
-        var elements = document.getElementsByClassName('typewrite');
-        for (var i=0; i<elements.length; i++) {
-            var toRotate = elements[i].getAttribute('data-type');
-            var period = elements[i].getAttribute('data-period');
-            if (toRotate) {
-              new TxtType(elements[i], JSON.parse(toRotate), period);
-            }
-        }
-        // INJECT CSS
-        var css = document.createElement("style");
-        css.type = "text/css";
-        css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
-        document.body.appendChild(css);
-    };
-</script>
 
