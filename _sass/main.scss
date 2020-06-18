@@ -91,7 +91,7 @@ footer {
 
 @media (max-width: 800px) {
     #intro {
-        margin-top: 50px;
+        padding-top: 50px;
     }
 
     a {
@@ -108,6 +108,10 @@ footer {
 }
 
 @media (max-height: 650px) {
+    #intro {
+        padding-top: 75px;
+    }
+
     footer {
         text-align: right;
 
