@@ -26,6 +26,10 @@ p {
     height: auto;
     font-size: 18px;
     color: $main-font-color;
+
+    a {
+        font-weight: normal;
+    }
 }
 
 h1 {
