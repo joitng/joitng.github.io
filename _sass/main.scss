@@ -6,7 +6,6 @@ $accent-color: #6469FF;
 html, body{
     font-family: 'Poppins', sans-serif;
     background-color: $bg;
-    width: 100%;
 }
 
 a {
@@ -39,10 +38,36 @@ h1 {
     font-weight: bold;
 }
 
+h2 {
+    font-size: 60px;
+    color: $main-font-color;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 32px;
+    color: $accent-color;
+    margin: 0;
+}
+
 h4 {
     font-size: 18px;
     font-weight: bold;
     margin: 0;
+}
+
+nav {
+    position: absolute;
+    margin-left: 100px;
+    a {
+        font-size: 60px;
+        font-weight: normal;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: $main-font-color;
+    }
 }
 
 #header {
