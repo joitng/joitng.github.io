@@ -105,9 +105,17 @@ footer {
 }
 
 @media (max-width: 1280px) {
+    #intro {
+        padding-top: 50px;
+    }
+
     #header {
         margin-left: 100px;
         margin-right: 100px;
+    }
+
+    nav {
+        margin-left: 25px;
     }
 }
 
@@ -116,12 +124,13 @@ footer {
         margin-left: 50px;
         margin-right: 50px;
     }
+
+    nav {
+        margin-left: 0px;
+    }
 }
 
 @media (max-width: 800px) {
-    #intro {
-        padding-top: 50px;
-    }
 
     a {
         font-size: 30px;
@@ -137,10 +146,6 @@ footer {
 }
 
 @media (max-height: 650px) {
-    #intro {
-        padding-top: 75px;
-    }
-
     footer {
         text-align: right;
 

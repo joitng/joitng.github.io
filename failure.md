@@ -5,7 +5,7 @@ permalink: /failure/
 ---
 
 ## failure resume 🤷🏻‍♀️
-**failure sucks.** but, despite it sucking so much, failure has taught me a lot about myself: how resilient i am, how far i need to go and, sometimes, how i'm exactly where i need to be in that moment.
+**failure sucks.** but, despite it sucking so much, failure has taught me a lot about myself: how resilient i am, how far i need to go and, sometimes, how i'm exactly where i need to be.
 
 and so, welcome to a list of my professional and personal failures, rejections, and disappointments. started in june of 2020. 
 
