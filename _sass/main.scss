@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,400,700');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 $main-font-color: black;
 $bg: white;
-$accent-color: #6469FF;
+$accent-color: #9Dc183;
 
 html, body{
     font-family: 'Poppins', sans-serif;
@@ -27,7 +27,7 @@ p {
     color: $main-font-color;
 
     a {
-        font-weight: normal;
+        font-size: 18px;
     }
 }
 
