@@ -147,20 +147,10 @@ df-messenger {
     }
 
     footer {
-        text-align: right;
-
-        .footer {
-            padding-right: 25px;
-        }
+        display: none;
     }
-}
 
-@media (max-height: 650px) {
-    footer {
-        text-align: right;
-
-        .footer {
-            padding-right: 25px;
-        }
+    .main-links {
+        display: block;
     }
 }
