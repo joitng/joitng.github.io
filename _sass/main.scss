@@ -104,6 +104,16 @@ footer {
     }
 }
 
+df-messenger {
+    --df-messenger-bot-message: white;
+    --df-messenger-button-titlebar-color: #9Dc183;
+    --df-messenger-chat-background-color: #fafafa;
+    --df-messenger-font-color: black;
+    --df-messenger-send-icon: #9Dc183;
+    --df-messenger-user-message: #9Dc183;
+    --df-messenger-chip-border-color:#9Dc183;
+}
+
 @media (max-width: 1280px) {
     #intro {
         padding-top: 50px;
