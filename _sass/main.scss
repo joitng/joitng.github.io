@@ -83,6 +83,12 @@ nav {
     padding-top: 125px;
 }
 
+.subtitle {
+    color: $accent-color;
+    margin-top: 0;
+    font-style: italic;
+}
+
 #links {
     display: flex-wrap;
     margin-top: 40px;
