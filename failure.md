@@ -19,6 +19,16 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2020
 <details>
+    <summary>Got a C+ in Calculus 3</summary>
+    <p>
+        To be honest, I have never been so happy to get a C+; my first pandemic term was hard for me. However, this _is_ the worst grade I have ever received. This course taught/reminded me of a couple things: 
+        1. Always make sure to thoroughly study concepts you feel shaky on. 
+        2. A basic understanding _needs_ to be supplemented with practice, at least for math classes. 
+        3. Don't take 2 math classes at the same time. 
+        4. You can enjoy (academic) things you're not necessarily good at.
+    </p>
+</details>
+<details>
     <summary>Never finished the Stanford ML course on Coursera</summary>
     <p>
     I could technically still finish this, but I'm so behind that I've forgotten everything I've learned so far. I think I had a hard time because I hadn't yet taken matrix algebra, and honestly, I've never really seen myself as someone who'd be good at ML. I'm going to take a shot at the Harvard CS50 Intro to AI MOOC though, with a better mindset. Wish me luck!
