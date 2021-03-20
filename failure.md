@@ -17,6 +17,8 @@ and so, welcome to a list of my professional and personal failures, rejections, 
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
+### 2021
+
 ### 2020
 <details>
     <summary>Got a C+ in Calculus 3</summary>
