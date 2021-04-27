@@ -21,13 +21,13 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 <details>
     <summary>Dropped out of co-chairing the Canadian Undergraduate Computer Science Conference.</summary>
     <p>
-        I was super excited about running this conference with one of my good friends about a year ago, but things went downhill after COVID-19 forced a change of plans. We felt like we just had to let go, because our hearts weren't in it anymore. Also, I am so burnt out from this past year.
+        I was super excited about running this conference with one of my good friends about a year ago, but things went downhill after COVID-19 forced a change of plans. I learned that it's okay to just let go sometimes, and that there are costs to taking on too much -- not only for myself, but for others (like our team, and the people who may have been looking forward to the event).
     </p>
 </details>
 <details>
     <summary>Rejected/not considered for 2/3 of the summer research internships I applied for.</summary>
     <p>
-        You only need 1 yes!!! To be honest, this isn't a huge failure and I was considering not adding this to this list; I was rejected from the CMU HCII REU program and was not considered for the MSR REU because I had already received and accepted an offer from the UWaterloo Undergraduate Research Fellowship Program.
+        You only need 1 yes!!! To be honest, this isn't a huge failure and I was considering not adding this to this list; I was rejected from the CMU HCII REU program and was not considered for the MSR REU because I had already received and accepted an offer from the UWaterloo URF Program. This experience was like a practice round for grad school apps later this year, which will be helpful in many ways :)
     </p>
 </details>
 
@@ -46,7 +46,7 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 <details>
     <summary>Never finished the Stanford ML course on Coursera</summary>
     <p>
-    I could technically still finish this, but I'm so behind that I've forgotten everything I've learned so far. I think I had a hard time because I hadn't yet taken matrix algebra, and honestly, I've never really seen myself as someone who'd be good at ML. I'm going to take a shot at the Harvard CS50 Intro to AI MOOC though, with a better mindset. Wish me luck!
+        I could technically still finish this, but I'm so behind that I've forgotten everything I've learned so far. I think I had a hard time because I hadn't yet taken matrix algebra, and honestly, I've never really seen myself as someone who'd be good at ML. I'm going to take a shot at the Harvard CS50 Intro to AI MOOC though, with a better mindset. Wish me luck!
     </p>
 </details>
 <details>
