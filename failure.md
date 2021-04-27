@@ -19,17 +19,18 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2021
 <details>
-    <summary>Dropped out of co-charing the Canadian Undergraduate Computer Science Conference.</summary>
+    <summary>Dropped out of co-chairing the Canadian Undergraduate Computer Science Conference.</summary>
     <p>
-        
+        I was super excited about running this conference with one of my good friends about a year ago, but things went downhill after COVID-19 forced a change of plans. We felt like we just had to let go, because our hearts weren't in it anymore. Also, I am so burnt out from this past year.
     </p>
 </details>
 <details>
     <summary>Rejected/not considered for 2/3 of the summer research internships I applied for.</summary>
     <p>
-        You only need 1 yes!!! To be honest, this isn't a huge failure and I was considering not adding this to this list; I was rejected from the CMU HCII REU program and was not considered for the MSR REU because I had already received and accepted my UWaterloo offer.
+        You only need 1 yes!!! To be honest, this isn't a huge failure and I was considering not adding this to this list; I was rejected from the CMU HCII REU program and was not considered for the MSR REU because I had already received and accepted an offer from the UWaterloo Undergraduate Research Fellowship Program.
     </p>
 </details>
+
 
 ### 2020
 <details>
