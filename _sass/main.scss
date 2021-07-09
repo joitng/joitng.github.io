@@ -51,7 +51,7 @@ h3 {
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
     margin: 0;
 }
@@ -101,6 +101,10 @@ details {
     font-style: italic;
 }
 
+.date {
+    margin-top: 0px;
+}
+
 #links {
     display: flex-wrap;
     margin-top: 40px;
@@ -110,12 +114,19 @@ details {
     margin-right: 50px;
 }
 
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
 footer {
-    position: fixed;
+    position: relative;
     left: 0;
-    bottom: 0;
     width: 100%;
     text-align: center;
+    margin-top: auto;
 
     .footer {
         font-size: 12px;
