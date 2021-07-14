@@ -1,0 +1,16 @@
+---
+layout: default
+title: blog
+permalink: /blog/
+---
+<h2>on feelings and thoughts</h2>
+
+<p></p>
+
+<ul>
+  {% for post in site.posts %}
+    <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+    <p class="date">{{ post.date | date_to_string }}</p>
+    {{ post.excerpt }}
+  {% endfor %}
+</ul>
