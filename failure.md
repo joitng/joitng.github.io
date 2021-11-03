@@ -19,6 +19,12 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2021
 <details>
+    <summary>Rejected for the Telus Diversity in Technology Scholarship.</summary>
+    <p>
+        I was lucky enough to be shortlisted, but I was rejected in the end (sorry if that feels like a humble brag). This was a lesson in not overthinking the factors that can lead to a rejection and/or just taking things as they are. 
+    </p>
+</details>
+<details>
     <summary>Dropped out of co-chairing the Canadian Undergraduate Computer Science Conference.</summary>
     <p>
         I was super excited about running this conference with one of my good friends about a year ago, but things went downhill after COVID-19 forced a change of plans. I learned that it's okay to just let go sometimes, and that there are costs to taking on too much -- not only for myself, but for others (like our team, and the people who may have been looking forward to the event).
@@ -46,7 +52,7 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 <details>
     <summary>Never finished the Stanford ML course on Coursera</summary>
     <p>
-        I could technically still finish this, but I'm so behind that I've forgotten everything I've learned so far. I think I had a hard time because I hadn't yet taken matrix algebra, and honestly, I've never really seen myself as someone who'd be good at ML. I'm going to take a shot at the Harvard CS50 Intro to AI MOOC though, with a better mindset. Wish me luck!
+        I could technically still finish this, but I'm so behind that I've forgotten everything I've learned so far. I think I had a hard time because I hadn't yet taken matrix algebra, and honestly, I've never really seen myself as someone who'd be good at ML. I ended up taking a more applied machine learning course in school. I enjoyed it a lot more AND it was more applicable to the work I do, so I think sometimes you just need to figure out what works for you!
     </p>
 </details>
 <details>
