@@ -17,6 +17,14 @@ and so, welcome to a list of my professional and personal failures, rejections, 
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
+### 2022
+<details>
+    <summary>Rejected for the Knight-Hennessey Scholarship.</summary>
+    <p>
+       This application process really forced me to reflect on my values and accomplishments, which was really cool. Whether my impact on the world is small or large, it's still impact; I just want to make sure it's positive.
+    </p>
+</details>
+
 ### 2021
 <details>
     <summary>Rejected for the Telus Diversity in Technology Scholarship.</summary>
