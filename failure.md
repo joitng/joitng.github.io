@@ -23,9 +23,7 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
     <p>
        Sometimes it isn't meant to be and sometimes you just won't measure up, and that's okay! We're worth so much more than our material accomplishments.
 
-       I made <a href="">blackout poetry with some of my rejection letters</a>, if you're interested.
-
-       Also, I don't want to brush aside how incredibly fortunate I was to get accepted to some great schools to work with some truly great people... See <a href="https://twitter.com/y1huen/status/1488981893282361345?s=20&t=_el8b_VpNCyhDYVRywABeg">this tweet</a>.
+       I made <a href="https://twitter.com/y1huen/status/1488981893282361345?s=20&t=_el8b_VpNCyhDYVRywABeg">blackout poetry with some of my rejection letters</a>, if you're interested.
     </p>
 </details>
 
