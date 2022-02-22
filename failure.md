@@ -19,6 +19,17 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2022
 <details>
+    <summary>Rejected from 4/8 graduate programs, including 2 of my top 3 choices.</summary>
+    <p>
+       Sometimes it isn't meant to be and sometimes you just won't measure up, and that's okay! We're worth so much more than our material accomplishments.
+
+       I made <a href="">blackout poetry with some of my rejection letters</a>, if you're interested.
+
+       Also, I don't want to brush aside how incredibly fortunate I was to get accepted to some great schools to work with some truly great people... See <a href="https://twitter.com/y1huen/status/1488981893282361345?s=20&t=_el8b_VpNCyhDYVRywABeg">this tweet</a>.
+    </p>
+</details>
+
+<details>
     <summary>Rejected for the Knight-Hennessey Scholarship.</summary>
     <p>
        This application process really forced me to reflect on my values and accomplishments, which was really cool. Whether my impact on the world is small or large, it's still impact; I just want to make sure it's positive.
