@@ -19,9 +19,9 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2022
 <details>
-    <summary>Rejected from 4/8 graduate programs, including 2 of my top 3 choices.</summary>
+    <summary>Rejected from 5/8 graduate programs I applied to.</summary>
     <p>
-       Sometimes it isn't meant to be and sometimes you just won't measure up, and that's okay! We're worth so much more than our material accomplishments.
+       Sometimes you won't measure up and sometimes it's just not meant to be, and both of those things are okay! So many factors go into decisions like these and it's hard not knowing why I got rejected from some of these programs, but we're worth so much more than our material accomplishments.
 
        I made <a href="https://twitter.com/y1huen/status/1488981893282361345?s=20&t=_el8b_VpNCyhDYVRywABeg">blackout poetry with some of my rejection letters</a>, if you're interested.
     </p>
@@ -48,7 +48,7 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
     </p>
 </details>
 <details>
-    <summary>Rejected/not considered for 2/3 of the summer research internships I applied for.</summary>
+    <summary>Rejected from 1/3 and withdrew from 1/3 of the summer research internships I applied for.</summary>
     <p>
         You only need 1 yes!!! This experience was like a practice round for grad school apps later this year, which will be helpful in many ways :)
     </p>
