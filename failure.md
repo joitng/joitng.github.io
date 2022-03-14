@@ -19,9 +19,9 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2022
 <details>
-    <summary>Rejected from 5/8 graduate programs I applied to.</summary>
+    <summary>Rejected from 5/8 graduate programs I applied to (with 1 application withdrawn).</summary>
     <p>
-       Sometimes you won't measure up and sometimes it's just not meant to be, and both of those things are okay! So many factors go into decisions like these and it's hard not knowing why I got rejected from some of these programs, but we're worth so much more than our material accomplishments.
+       Sometimes you won't measure up and sometimes it's just not meant to be, and both of those things are okay! So many factors go into decisions like these and it's hard not knowing why I got rejected from some of these programs... but we're worth so much more than our material accomplishments.
 
        I made <a href="https://twitter.com/y1huen/status/1488981893282361345?s=20&t=_el8b_VpNCyhDYVRywABeg">blackout poetry with some of my rejection letters</a>, if you're interested.
     </p>
@@ -41,14 +41,23 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
         This was a lesson in not overthinking the factors that can lead to a rejection and/or just taking things as they are. 
     </p>
 </details>
+
+<details>
+    <summary>Paper was rejected by the first 2 journals we submitted to.</summary>
+    <p>
+        It happens. :)
+    </p>
+</details>
+
 <details>
     <summary>Dropped out of co-chairing the Canadian Undergraduate Computer Science Conference.</summary>
     <p>
         I was super excited about running this conference with one of my good friends about a year ago, but things went downhill after COVID-19 forced a change of plans. I learned that it's okay to just let go sometimes, and that there are costs to taking on too much -- not only for myself, but for others (like our team, and the people who may have been looking forward to the event).
     </p>
 </details>
+
 <details>
-    <summary>Rejected from 1/3 and withdrew from 1/3 of the summer research internships I applied for.</summary>
+    <summary>Rejected from a summer research internship I thought I would be very well-suited for.</summary>
     <p>
         You only need 1 yes!!! This experience was like a practice round for grad school apps later this year, which will be helpful in many ways :)
     </p>
