@@ -11,6 +11,7 @@ Kyoungwon Seo\*, **Joice Tang\***, Ido Roll, Sidney Fels, Dongwook Yoon. [The im
 ### workshop papers
 **Joice Tang**, Ning F. Ma, Dongwook Yoon. [Understanding How Customers Attribute Accountability in Food Delivery Breakdowns](http://ceur-ws.org/Vol-2903/IUI21WS-TExSS-14.pdf){:target="_blank"}. In Workshop on Transparency and Explanations in Smart Systems (TExSS) at IUI 2021.
 
-
+### other
+Joice Tang and McKane Andrus. [A Resonant Critique: A Review of Resisting AI by Dan McQuillan](https://reboothq.substack.com/p/mcquillan){:target="_blank"}. Reboot Newsletter, August 2022.
 
 *(\[\*\] denotes equal contribution)*
