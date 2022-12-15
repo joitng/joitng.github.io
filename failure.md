@@ -19,6 +19,12 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2022
 <details>
+    <summary>Rejected for two intra-department fellowships.</summary>
+    <p>
+       I tried. :)
+    </p>
+</details>
+<details>
     <summary>Rejected from 5/8 graduate programs I applied to (with 1 application withdrawn).</summary>
     <p>
        Sometimes you won't measure up and sometimes it's just not meant to be, and both of those things are okay! So many factors go into decisions like these and it's hard not knowing why I got rejected from some of these programs... but we're worth so much more than our material accomplishments.
