@@ -17,6 +17,16 @@ and so, welcome to a list of my professional and personal failures, rejections, 
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
+### 2023
+<details>
+    <summary>Rejected for the NSERC PGS-D.</summary>
+    <p>
+       I was really hopeful about my application, but there are so many possible reasons why I could've been rejected (e.g., new PhD student w/o masters, not enough pubs/experience, wording not directed enough, interdisciplinary work). Interesting to try to make sense of things when none of that feedback is given. 
+       
+       If anything, I had just started the first year of my PhD when I applied and my research interests have changed a lot since then, so I'm looking forward to getting another opportunity to sit down and think about what I care to do now that my interests have matured a little!
+    </p>
+</details>
+
 ### 2022
 <details>
     <summary>Rejected for two intra-department fellowships.</summary>
