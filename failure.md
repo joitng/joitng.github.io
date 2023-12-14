@@ -26,6 +26,12 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
        If anything, I had just started the first year of my PhD when I applied and my research interests have changed a lot since then, so I'm looking forward to getting another opportunity to sit down and think about what I care to do now that my interests have matured a little!
     </p>
 </details>
+<details>
+    <summary>A paper from one of my undergraduate research projects was rejected from a conference.</summary>
+    <p>
+       This paper kind of already belongs here on this page because I had an incredibly hard time finishing it up (and was only able to do so with the help of two wonderful researchers from the lab that I did this research in). This was our first submission. Thankfully, we got really helpful feedback.
+    </p>
+</details>
 
 ### 2022
 <details>
