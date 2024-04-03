@@ -17,6 +17,12 @@ and so, welcome to a list of my professional and personal failures, rejections, 
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
+### 2024
+<details>
+    <summary>Didn't get an interview for a Staff Assistant role in the Office of Undergraduate Research.</summary>
+    <p>
+    </p>
+</details>
 ### 2023
 <details>
     <summary>Rejected for the NSERC PGS-D.</summary>
@@ -45,7 +51,7 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
     <p>
        Sometimes you won't measure up and sometimes it's just not meant to be, and both of those things are okay! So many factors go into decisions like these and it's hard not knowing why I got rejected from some of these programs... but we're worth so much more than our material accomplishments.
 
-       I made <a href="https://twitter.com/y1huen/status/1488981893282361345?s=20&t=_el8b_VpNCyhDYVRywABeg">blackout poetry with some of my rejection letters</a>, if you're interested.
+       I made <a href="https://twitter.com/_joicetang_/status/1488981893282361345?s=20&t=_el8b_VpNCyhDYVRywABeg">blackout poetry with some of my rejection letters</a>, if you're interested.
     </p>
 </details>
 
