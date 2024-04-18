@@ -19,8 +19,15 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2024
 <details>
+    <summary>Had a paper rejected from a conference.</summary>
+    <p>
+    First PhD paper submission -> first PhD paper rejection. I felt really proud of this paper so I'm pretty bummed about this (and dreading reading the reviews a little bit), but this is all part of the academic process, for better or for worse.
+    </p>
+</details>
+<details>
     <summary>Didn't get an interview for a Staff Assistant role in the Office of Undergraduate Research.</summary>
     <p>
+    I think I would've had a lot of fun with this, but sometimes things just don't work out (and they had a lot of applicants).
     </p>
 </details>
 ### 2023
