@@ -52,6 +52,14 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 </details>
 ### 2023
 <details>
+    <summary>Failed to be a good academic collaborator to a community member I collaborated with.</summary>
+    <p>
+       This is maybe one of my greatest failures from my first few years in grad school. I wanted to add this because I think it's really important to acknowledge how much responsibility we hold as people who come from and represent what can frankly be very harmful institutions. Even as someone who knew this, I let my own avoidance inform my actions, and I didn't honor our relationship well enough -- my feelings of anxiety and sorryness didn't replace action.
+
+       This wouldn't have solved everything, but something I wish I had had a conversation with my community partner about expectations before we started, specifically around workflow and process. I feel like so much breakdown in general is about expectations and accountability. For you and your community partner: How often do they expect you to check in? What is important for them to be a part of? What do they expect your relationship to look like? Obviously these things change (and need to change based on [the development of] your relationship), but having something defined at the start would've been helpful.
+    </p>
+</details>
+<details>
     <summary>Rejected for the NSERC PGS-D.</summary>
     <p>
        I was really hopeful about my application, but there are so many possible reasons why I could've been rejected (e.g., new PhD student w/o masters, not enough pubs/experience, wording not directed enough, interdisciplinary work). Interesting to try to make sense of things when none of that feedback is given. 
