@@ -19,9 +19,29 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2024
 <details>
+    <summary>Had the paper from undergrad get rejected, again.</summary>
+    <p>
+    I was so sick of this paper at this point, especially because it wasn't within the realm of work I was doing anymore (and I was so far away from the summer during which I started it). It ultimately got shelved, but the other authors are re-running the study in a new way -- I wish them luck!
+    </p>
+</details>
+<details>
+    <summary>Rejected from the Harry Bridges Labor Center Scholarship.</summary>
+    <p>
+    I think I probably could've talked more about my research (and could've had more of an idea of how I wanted my research to progress) in my application, but alas! These things are always out of my control. If anything, scholarship applications are always a really fun way to reflect on my worldview and my values.
+    </p>
+</details>
+<details>
+    <summary>Rejected from the Cornell ILR School Strategic Corporate Research Summer School.</summary>
+    <p>
+    One of my references was submitted later than their deadline and they stated that when rejecting me from the program (even though they took it) -- who knows!
+    </p>
+</details>
+<details>
     <summary>Had a paper rejected from a conference.</summary>
     <p>
-    First PhD paper submission -> first PhD paper rejection. I felt really proud of this paper so I'm pretty bummed about this (and dreading reading the reviews a little bit), but this is all part of the academic process, for better or for worse.
+    First PhD paper submission -> first PhD paper rejection. I felt really proud of this paper so I'm pretty bummed about this (and dreading reading the reviews a little bit), but this is all part of the academic process, for better or for worse. 
+    
+    (Later reflection -- the reviews were very helpful. I'm really glad the reviewers gave the paper a chance to improve.)
     </p>
 </details>
 <details>
