@@ -5,15 +5,9 @@ permalink: /failure/
 ---
 
 ## failure resume 🤷🏻‍♀️
-**failure sucks.** but, despite it sucking so much, failure has taught me a lot about myself: how resilient i am, how far i need to go and, sometimes, how i'm exactly where i need to be.
+**failure sucks.** but, despite it sucking so much, failure has taught me a lot about myself: how resilient i am, how far i need to go and, sometimes, how i'm exactly where i need to be. it's also just completely normal.
 
 and so, welcome to a list of my professional and personal failures, rejections, and disappointments. started in june of 2020. 
-<details>
-    <summary>← click for details</summary>
-    <p>
-    does not include the many failures i experience on a near-daily basis: grades that make me feel bad, my struggles with critique, the feeling of not being liked, etc etc
-    </p>
-</details>
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
@@ -33,7 +27,7 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 <details>
     <summary>Rejected from the Cornell ILR School Strategic Corporate Research Summer School.</summary>
     <p>
-    One of my references was submitted later than their deadline and they stated that when rejecting me from the program (even though they took it) -- who knows!
+    One of my references was submitted later than their deadline and they stated that as the reason when rejecting me from the program (even though they took it) -- who knows!
     </p>
 </details>
 <details>
