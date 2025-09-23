@@ -11,6 +11,20 @@ and so, welcome to a list of my professional and personal failures, rejections, 
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
+### 2025
+<details>
+    <summary>Rejected for the AI Equitable Growth grant.</summary>
+    <p>
+    I actually don't know if we ever really heard back about this, but I think the silence was enough confirmation for me -- and reading back on the application made me cringe quite a bit. My thinking was definitely developing here, but again, I'm glad to have gotten the chance to start working some ideas out. It's also really helped me understand what I need to do to make my work and ideas more robust.
+    </p>
+</details>
+<details>
+    <summary>Rejected for the SSHRC Doctoral Fellowship.</summary>
+    <p>
+    This was quite disappointing for me since it was the last year I could apply for this fellowship. I'm glad I applied though; I started my application pretty last minute because I was trying to figure out a new research direction, and putting it together really helped outline something new for me. Over the course of the year, I applied to several more grants that really built on and improved my thinking for this fellowship application, and I couldn't have done it without doing this one first. TBH, I really recommend folks apply to fellowships and grants... At the very least, it can be really helpful for working through your thinking!
+    </p>
+</details>
+
 ### 2024
 <details>
     <summary>Had the paper from undergrad get rejected, again.</summary>
