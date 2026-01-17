@@ -7,7 +7,7 @@ permalink: /failure/
 ## failure resume 🤷🏻‍♀️
 **failure sucks.** but, despite it sucking so much, failure has taught me a lot about myself: how resilient i am, how far i need to go and, sometimes, how i'm exactly where i need to be. it's also just completely normal.
 
-and so, welcome to a list of my professional and personal failures, rejections, and disappointments. started in june of 2020. 
+welcome to a list of my professional and personal failures, rejections, and disappointments. started in june of 2020. 
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
@@ -22,6 +22,12 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
     <summary>Rejected for the SSHRC Doctoral Fellowship.</summary>
     <p>
     This was quite disappointing for me since it was the last year I could apply for this fellowship. I'm glad I applied though; I started my application pretty last minute because I was trying to figure out a new research direction, and putting it together really helped outline something new for me. Over the course of the year, I applied to several more grants that really built on and improved my thinking for this fellowship application, and I couldn't have done it without doing this one first. TBH, I really recommend folks apply to fellowships and grants... At the very least, it can be really helpful for working through your thinking!
+    </p>
+</details>
+<details>
+    <summary>Wasn't considered for a summer research position.</summary>
+    <p>
+    I'm not sure if this really counts as a failure (I don't even know if anyone ever read what I sent in), but I think one of the best things about failure resumes is having a log of everything I've tried out for that might be a bit invisible / easy to forget otherwise. This one's a snapshot of the times... The grant got cancelled right after I sent in my application :( 
     </p>
 </details>
 
