@@ -11,6 +11,14 @@ welcome to a list of my professional and personal failures, rejections, and disa
 
 learn more about failure resumes [here](https://www.mentalfloss.com/article/573154/failure-resume-benefits){:target="_blank"}.
 
+### 2026
+<details>
+    <summary>Rejected for the Aspen Policy Academy Science & Technology Policy Fellowship.</summary>
+    <p>
+    It would have been interesting to dig a bit more into policy this summer (and it would've been great to get to spend more time in SF, where many of my friends are!), but it didn't work out. I did start my application much later than I should've, too, but this is my year of just throwing out a lot of fishing lines to see what I can catch :)
+    </p>
+</details>
+
 ### 2025
 <details>
     <summary>Rejected for the AI Equitable Growth grant.</summary>
