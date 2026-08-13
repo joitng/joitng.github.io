@@ -13,6 +13,12 @@ learn more about failure resumes [here](https://www.mentalfloss.com/article/5731
 
 ### 2026
 <details>
+    <summary>Rejected for the Ipsos PhD Internship.</summary>
+    <p>
+    I realized during the interview that I wasn't the most suitable mentee for this, and I only realized several months afterward that I should've sent a thank you email after the interview. I hope someone lovely got the position,and I hope my interviewer knows that I enjoyed the bit of time we got to chat!
+    </p>
+</details>
+<details>
     <summary>Rejected for the Microsoft Social Media Collective PhD Internship.</summary>
     <p>
     SMC has always been an internship of interest for me, and it would've been an especially interesting time to go and study the specific contours of how emerging technologies are showing up and shaking up what it's like to work in the tech world (as I propsoed in my project proposal). Looking back, maybe it could've been more specific -- but if others are doing that work, I'm excited to see what they find.
